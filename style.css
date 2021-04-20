@@ -1,0 +1,55 @@
+#container{
+    background-color: white;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+button{
+    display:block;
+    margin-bottom: 80px;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+/* #search, #circleplus, #creatingAccount {
+    background-color: green;
+    height: 200px;
+    width: 275px;
+    border:1px solid black;
+    margin: 20px;
+    padding:20px;
+} */
+
+#search{
+    background-color: whitesmoke;
+    border:3px solid rgb(24, 112, 112);
+    border-radius: 40px;
+    height: 55px;
+    width: 275px;
+    text-align: center;
+    color:rgb(24, 112, 112);
+    font-size:x-large;
+}
+
+#circleplus{
+    background-color: rgb(145, 202, 169);
+    color: white;
+    border:3px solid rgb(24, 112, 112);
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#creatingAccount{
+    background: blue;
+    color: white;
+    font-size:x-large;
+    height: 75px;
+    width: 325px;
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px black;
+}
